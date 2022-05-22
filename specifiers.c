@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * get_specifier - finds the format func
+ * get_specifier - finds the format function
  * @s: the format string
  *
  * Return: the number of bytes printed
